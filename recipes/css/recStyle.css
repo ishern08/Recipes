@@ -1,0 +1,26 @@
+.Headings{
+    color:aquamarine;
+    text-align: center;
+    background-color: navy;
+    font-size: 50px;
+    font-weight: 100;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.Links{
+    font-size: 30px;
+}
+
+.SpecialLink{
+    color: hotpink;
+}
+
+img{
+    height:auto;
+    width: 500px;
+}
+
+.Links, .SpecialLink{
+    font-weight: bold;
+}
