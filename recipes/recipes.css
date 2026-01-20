@@ -1,0 +1,31 @@
+.Headings{
+    color:aquamarine;
+    text-align: center;
+    background-color: navy;
+    font-size: 50px;
+    font-weight: 100;
+
+
+}
+
+.Headings h2{
+    background-color: lightsalmon;
+}
+
+.Links{
+    font-size: 30px;
+}
+
+
+.SpecialLink{
+    color: hotpink;
+}
+
+.SpecialLink, .Links{
+    font-weight: bold;
+}
+
+img {
+  height: auto;
+  width: 500px;
+}
